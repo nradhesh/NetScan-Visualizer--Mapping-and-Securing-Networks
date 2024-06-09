@@ -17,16 +17,17 @@ NetScan Visualizer is a Python script designed to scan a network range, identify
 - `matplotlib` library
 - `pandas` library
 
-Install dependencies using:
+## Install Dependencies Using:
 
-```bash
 pip install python-nmap networkx matplotlib pandas
 
 ## Input Network Range
 
 When prompted, enter the network range you want to scan (e.g., 192.168.1.0/24).
 
-## View Results 
+## Sequenced Output 
+
+![image](https://github.com/nradhesh/NetScan-Visualizer--Mapping-and-Securing-Networks/assets/136627964/5c30bff9-90cf-4c29-b574-38b010d9aea2)
 
 The script will display potential threats detected based on known vulnerable ports.
 
@@ -36,5 +37,5 @@ Detailed port information for each host will be provided.
 
 Based on the open ports and the services on these ports the reason of causing DoS attack can be detected.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
