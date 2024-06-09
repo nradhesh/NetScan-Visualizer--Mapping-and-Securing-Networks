@@ -27,7 +27,8 @@ When prompted, enter the network range you want to scan (e.g., 192.168.1.0/24).
 
 ## Sequenced Output 
 
-![image](https://github.com/nradhesh/NetScan-Visualizer--Mapping-and-Securing-Networks/assets/136627964/5c30bff9-90cf-4c29-b574-38b010d9aea2)
+![image](https://github.com/nradhesh/NetScan-Visualizer--Mapping-and-Securing-Networks/assets/136627964/e3ee2781-efb9-43de-8563-c4a1078697da)
+
 
 The script will display potential threats detected based on known vulnerable ports.
 
